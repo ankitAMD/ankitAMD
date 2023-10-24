@@ -1,6 +1,6 @@
 ![logo](https://github.com/ankitAMD/ankitAMD/blob/main/Pink%20Green%20and%20Blue%20Freeform%20Blob%20Business%20Envelope%20(9).png)
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">An enthusiastic Cloud Engineer hailing from India 🙏.</h3>
+<h3 align="center">An enthusiastic Devops Engineer hailing from India 🙏.</h3>
 
 <img align="right" alt="Devops" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
