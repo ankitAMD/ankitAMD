@@ -1,3 +1,4 @@
+![logo](https://github.com/ankitAMD/ankitAMD/blob/main/Pink%20Green%20and%20Blue%20Freeform%20Blob%20Business%20Envelope%20(9).png)
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">An enthusiastic Cloud Engineer hailing from India 🙏.</h3>
 
