@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitamd" alt="ankitamd" /></a> </p>
 
-- 🔭 I’m currently working on [Learn 90 Days of Devops Challenge.](https://github.com/ankitAMD/90-Days_of_Devops)
+- 🔭 I’m currently working on [Learn 90 Days of DevOps Challenge.](https://github.com/ankitAMD/MyHashnodeBlogs)
 
 - 🌱 I’m currently learning **DevOps , MLOps.**
 
